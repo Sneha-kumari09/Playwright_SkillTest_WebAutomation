@@ -1,0 +1,16 @@
+{
+    "SearchHistory": 
+    {
+      "searchHistorySelector": "section[data-testid='search-history']",
+      "searcheditems" : ".merListItem",
+      "historyitem1" : "a[href*='keyword=Javascript']",
+      "historyitem2" : "a[href*='id=674']",
+      "itemContainer" : "[itemtype='ITEM_TYPE_MERCARI']"
+    },
+    "SearchResultheading" : 
+    {
+        "searchResultheadingSelector" : "h1:has-text('Search results for')"
+    }
+
+  }
+  
